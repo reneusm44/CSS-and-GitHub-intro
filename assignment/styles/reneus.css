@@ -4,7 +4,7 @@
     */
 
 body {
-    background: #D2529A; /* medium plum */
+    background: #cd378c; /* medium plum */
     color: #fff; /* may be #000 or #fff */
     font-family: Calibri, Arial, sans-serif; /* keep */
 }
@@ -30,14 +30,19 @@ aside {
 }
 
 figure {
-  background: #D9CE7C; /* yellow */
+  background: #551638; /* yellow */
   color: #000; /* need darker color */
 }
 
 
 /* --- add your PSEUDO CLASSES below this line --- */
-footer a:link { color: #192352; } /* royal blue */
-footer a:visited { color: #8493d9; } /* light blue */
-footer a:focus { color: #4159d2; } /* medium tan */
-footer a:hover { color: #323e75; } /* violet blue */
-footer a:active { color: #372bb2; } /* blue */
+a:link { color: #c7c7c7; } /* medium blue */
+a:visited { color:#9e9e9e; } /* blue gray */
+a:focus { color:#b3beea; } /* medium light colors */
+a:hover { color:#A7B1D9; } /*light blue */
+a:active { color: #9aa4d0; } /*dark blue */
+footer a:link { color: #dfecec; } /* royal blue */
+footer a:visited { color: #c6ffff; } /* light blue */
+footer a:focus { color: #f4ebe6; } /* medium tan */
+footer a:hover { color: #e9d1c8; } /* violet blue */
+footer a:active { color: #8ed2ca; } /* blue */
